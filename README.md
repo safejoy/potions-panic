@@ -10,7 +10,7 @@ Potions Panic! is a whimsical 2D RPG where you play as an apprentice potion-make
 
 > 🍄 Think: **Cute pixel art, collectible cards, cozy chaos, and magical messes.**
 
----
+Learn more about the game [here](https://wiki.15.gay/doku.php?id=potions_panic).
 
 ## 📁 Repository Contents
 
@@ -57,7 +57,7 @@ Stay tuned for early access versions, coming soon™!
 - **RPG Maker MV**
 - **Aseprite** (Pixel Art)
 - **Audacity / LMMS** (Audio Editing)
-- OneNote + Obisidian (Documentation & Lore)
+- **OneNote + Obisidian** (Documentation & Lore)
 - **Cosmic Everyday + Trello** (Planning & Task Management)
 
 ---

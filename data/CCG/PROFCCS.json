@@ -1,0 +1,356 @@
+{
+  "Layers": [
+    {
+      "Name": "Base",
+      "Category": "Body",
+      "Part": "Lean Male",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#1",
+      "Category": "Head",
+      "Part": "Head02",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#2",
+      "Category": "Eyes",
+      "Part": "Eye06",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#3",
+      "Category": "Eyebrows",
+      "Part": "Brow03",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#4",
+      "Category": "Nose",
+      "Part": "Nose02",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#5",
+      "Category": "Mouth",
+      "Part": "Mouth03",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#6",
+      "Category": "Rear Hair",
+      "Part": "Hair01",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 18,
+            "Saturation": 80,
+            "Lightness": 54,
+            "Color": null
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 22,
+            "Saturation": 54,
+            "Lightness": 64,
+            "Color": null
+          }
+        },
+        "Sv": {
+          "ff0000ff": {
+            "Hue": 24,
+            "Saturation": 69,
+            "Lightness": 64,
+            "Color": null
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#8",
+      "Category": "Facial Marks",
+      "Part": "Face4",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#11",
+      "Category": "Glasses",
+      "Part": "Glasses1",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#7",
+      "Category": "Front Hair",
+      "Part": "Front09",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 24,
+            "Saturation": 41,
+            "Lightness": 60,
+            "Color": null
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 24,
+            "Saturation": 69,
+            "Lightness": 70,
+            "Color": null
+          }
+        },
+        "Sv": {
+          "ff0000ff": {
+            "Hue": 24,
+            "Saturation": 76,
+            "Lightness": 75,
+            "Color": null
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#9",
+      "Category": "Facial Marks",
+      "Part": "Face1",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#10",
+      "Category": "Facial Marks",
+      "Part": "Face8",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#12",
+      "Category": "Socks",
+      "Part": "Socks03",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#13",
+      "Category": "Shoes",
+      "Part": "Shoes01",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#15",
+      "Category": "Clothing Top",
+      "Part": "Top01",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ffff0000": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FFFFAFFF"
+          },
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 1,
+            "Color": null
+          },
+          "ffffff00": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": null
+          },
+          "ff00ff00": {
+            "Hue": 261,
+            "Saturation": 61,
+            "Lightness": 28,
+            "Color": null
+          }
+        },
+        "Walk": {
+          "ffff0000": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FFEE82EE"
+          },
+          "ff00ff00": {
+            "Hue": 25,
+            "Saturation": 42,
+            "Lightness": 17,
+            "Color": null
+          }
+        },
+        "Sv": {
+          "ff00ff00": {
+            "Hue": 47,
+            "Saturation": 55,
+            "Lightness": 22,
+            "Color": null
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#14",
+      "Category": "Clothing Bottom",
+      "Part": "Bottom07",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 257,
+            "Saturation": 45,
+            "Lightness": 25,
+            "Color": "#FFE0FFFF"
+          },
+          "ff00ff00": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": null
+          },
+          "ffffff00": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": null
+          },
+          "ffff0000": {
+            "Hue": 168,
+            "Saturation": 28,
+            "Lightness": 30,
+            "Color": null
+          }
+        },
+        "Walk": {
+          "ffff0000": {
+            "Hue": 326,
+            "Saturation": 22,
+            "Lightness": 22,
+            "Color": null
+          },
+          "ff0000ff": {
+            "Hue": 314,
+            "Saturation": 38,
+            "Lightness": 23,
+            "Color": null
+          }
+        },
+        "Sv": {
+          "ffff0000": {
+            "Hue": 319,
+            "Saturation": 41,
+            "Lightness": 15,
+            "Color": null
+          },
+          "ff0000ff": {
+            "Hue": 328,
+            "Saturation": 55,
+            "Lightness": 18,
+            "Color": null
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#16",
+      "Category": "Hat",
+      "Part": "Hat3",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff00ff00": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF00BFFF"
+          },
+          "ff0000ff": {
+            "Hue": 316,
+            "Saturation": 62,
+            "Lightness": 33,
+            "Color": "#FFE0FFFF"
+          }
+        },
+        "Walk": {
+          "ff00ff00": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF00CED1"
+          },
+          "ff0000ff": {
+            "Hue": 327,
+            "Saturation": 0,
+            "Lightness": 30,
+            "Color": "#FFF8F8FF"
+          }
+        },
+        "Sv": {
+          "ff00ff00": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF00CED1"
+          },
+          "ff0000ff": {
+            "Hue": 317,
+            "Saturation": 42,
+            "Lightness": 29,
+            "Color": "#FFE0FFFF"
+          }
+        }
+      }
+    }
+  ],
+  "BodyType": "Male Lean",
+  "BodyTypeVariation": ""
+}

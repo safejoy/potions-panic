@@ -1,2 +1,86 @@
-# potions-panic
-A little RPG game about saving your prof with potions.
+# 🧪 Potions Panic!
+
+*Welcome to the official development repository for* **Potions Panic!**, *a cozy-chaotic RPG about magical mishaps, mischievous ingredients, and aspiring potion witches.*
+
+---
+
+## ✨ What is Potions Panic!?
+
+Potions Panic! is a whimsical 2D RPG where you play as an apprentice potion-maker navigating magical exams, wild side quests, and a world full of sparkling chaos. Brew potions, collect rare ingredients, talk to eccentric NPCs, and survive your final potion-making exam!
+
+> 🍄 Think: **Cute pixel art, collectible cards, cozy chaos, and magical messes.**
+
+---
+
+## 📁 Repository Contents
+
+This repo includes:
+
+| Folder/File       | Description |
+|-------------------|-------------|
+| `/code/`          | Custom plugins, scripts, and engine modifications (RPG Maker MV/MZ based). |
+| `/images/`        | Pixel art, concept art, sprites, and promo assets. |
+| `/data/`      | JSON, CSV, or RPG Maker database exports for items, enemies, skills, and more. |
+| `/devlogs/`       | Development logs, design notes, and fun behind-the-scenes updates. |
+| `README.md`       | You're reading it! :) |
+
+---
+
+## 🗺️ Key Features
+
+- 🍵 **Potion Brewing** system with unique recipes and fun effects.
+- 🎴 **Collectible Card Sidequest** that ties into the game lore.
+- 🧍 **Quirky NPCs**, like Fizzwig Poppleton, your overenthusiastic shop assistant.
+- 🧪 **Interactive Magic Maps** with hidden secrets and battles.
+- 🎶 **Cozy Magical Vibes** with charming music and sfx.
+
+---
+
+## 🚧 Development Status
+
+> **Currently in development!**  
+We’re prototyping systems, designing maps, building out lore, and adding lots of sparkles ✨
+
+Check out the `/devlogs/` folder for detailed updates, behind-the-scenes ideas, and the occasional potion accident.
+
+---
+
+## 📦 Releases
+
+Archived builds and demo versions will be available in the `/releases/` folder.  
+Stay tuned for early access versions, coming soon™!
+
+---
+
+## 🛠️ Tools Used
+
+- **RPG Maker MV**
+- **Aseprite** (Pixel Art)
+- **Audacity / LMMS** (Audio Editing)
+- OneNote + Obisidian (Documentation & Lore)
+- **Cosmic Everyday + Trello** (Planning & Task Management)
+
+---
+
+## 💬 Contributing
+
+Right now this is a solo/devlog repo for personal use and tracking.  
+If you're interested in testing, giving feedback, or cheering me on — feel free to follow along and leave a ⭐!
+
+---
+
+## 📜 License
+
+This project is currently **not open-source** and is licensed for private/personal use only.
+
+---
+
+## 💖 Credits & Thanks
+
+Thanks to everyone who’s helped shape this project, supported me, tested builds, or just said something kind while I debugged exploding frogs.  
+Special shoutouts to the cozy dev community, my partner, and my two cats. 🐾
+
+---
+
+**Stay magical!**  
+~ Joy ✨  

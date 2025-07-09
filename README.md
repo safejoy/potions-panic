@@ -54,7 +54,7 @@ Stay tuned for early access versions, coming soon™!
 
 ## 🛠️ Tools Used
 
-- **RPG Maker MV**
+- **RPG Maker MZ / Card Engine**
 - **Aseprite** (Pixel Art)
 - **Audacity / LMMS** (Audio Editing)
 - **OneNote + Obisidian** (Documentation & Lore)

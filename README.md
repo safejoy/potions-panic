@@ -12,25 +12,13 @@ Potions Panic! is a whimsical 2D RPG where you play as an apprentice potion-make
 
 Learn more about the game [here](https://wiki.15.gay/doku.php?id=potions_panic).
 
-## 📁 Repository Contents
-
-This repo includes:
-
-| Folder/File       | Description |
-|-------------------|-------------|
-| `/code/`          | Custom plugins, scripts, and engine modifications (RPG Maker MV/MZ based). |
-| `/images/`        | Pixel art, concept art, sprites, and promo assets. |
-| `/data/`      | JSON, CSV, or RPG Maker database exports for items, enemies, skills, and more. |
-| `/devlogs/`       | Development logs, design notes, and fun behind-the-scenes updates. |
-| `README.md`       | You're reading it! :) |
-
 ---
 
 ## 🗺️ Key Features
 
 - 🍵 **Potion Brewing** system with unique recipes and fun effects.
 - 🎴 **Collectible Card Sidequest** that ties into the game lore.
-- 🧍 **Quirky NPCs**, like Fizzwig Poppleton, your overenthusiastic shop assistant.
+- 🧍 **Quirky NPCs**, like Fizzwig Poppleton, a overenthusiastic shop assistant.
 - 🧪 **Interactive Magic Maps** with hidden secrets and battles.
 - 🎶 **Cozy Magical Vibes** with charming music and sfx.
 
@@ -56,8 +44,9 @@ Stay tuned for early access versions, coming soon™!
 
 - **RPG Maker MZ / Card Engine**
 - **Aseprite** (Pixel Art)
-- **Audacity / LMMS** (Audio Editing)
-- **OneNote + Obisidian** (Documentation & Lore)
+- **Paintnet** (Other Art)
+- **Audacity / LMMS / Lovely Composer** (Audio Editing)
+- **OneNote + Obisidian / Zim Wiki** (Documentation & Lore)
 - **Cosmic Everyday + Trello** (Planning & Task Management)
 
 ---

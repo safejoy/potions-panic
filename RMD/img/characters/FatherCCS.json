@@ -1,0 +1,133 @@
+{
+  "Layers": [
+    {
+      "Name": "Base",
+      "Category": "Body",
+      "Part": "Lean Male",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#1",
+      "Category": "Head",
+      "Part": "Head02",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#2",
+      "Category": "Eyes",
+      "Part": "Eye05",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#3",
+      "Category": "Eyebrows",
+      "Part": "Brow04",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {
+        "ffff0000": {
+          "Hue": 12,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FFE0FFFF"
+        },
+        "ff00ff00": {
+          "Hue": 37,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FFF0F8FF"
+        },
+        "ff0000ff": {
+          "Hue": 142,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FFF8F8FF"
+        }
+      }
+    },
+    {
+      "Name": "Layer#4",
+      "Category": "Nose",
+      "Part": "Nose04",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#5",
+      "Category": "Mouth",
+      "Part": "Mouth05",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#6",
+      "Category": "Rear Hair",
+      "Part": "Hair 05",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {
+        "ff0000ff": {
+          "Hue": 149,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FFAFEEEE"
+        }
+      }
+    },
+    {
+      "Name": "Layer#7",
+      "Category": "Front Hair",
+      "Part": "Front08",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {
+        "ff0000ff": {
+          "Hue": 150,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FFF5FFFA"
+        }
+      }
+    },
+    {
+      "Name": "Layer#8",
+      "Category": "Socks",
+      "Part": "Socks02",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#9",
+      "Category": "Clothing Bottom",
+      "Part": "Bottom04",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#10",
+      "Category": "Clothing Top",
+      "Part": "Top04",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {
+        "ffff0000": {
+          "Hue": 0,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FF708090"
+        }
+      }
+    }
+  ],
+  "BodyType": "Male Lean"
+}

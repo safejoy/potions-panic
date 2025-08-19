@@ -1,0 +1,162 @@
+{
+  "Layers": [
+    {
+      "Name": "Base",
+      "Category": "Body",
+      "Part": "Lean Male",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF6495ED"
+          },
+          "ffff0000": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF6495ED"
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 202,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF1E90FF"
+          },
+          "ffff0000": {
+            "Hue": 220,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF1E90FF"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#1",
+      "Category": "Head",
+      "Part": "Head06",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF6495ED"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#2",
+      "Category": "Eyes",
+      "Part": "Eye01",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 164,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF00FFFF"
+          },
+          "ffff0000": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": null
+          },
+          "ff00ff00": {
+            "Hue": 339,
+            "Saturation": 96,
+            "Lightness": 13,
+            "Color": "#FF00FFFF"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#3",
+      "Category": "Mouth",
+      "Part": "Mouth02",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF1E90FF"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#4",
+      "Category": "Rear Hair",
+      "Part": "Hair 06",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 151,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF00FFFF"
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 151,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF00FFFF"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#5",
+      "Category": "Front Hair",
+      "Part": "Front03",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 151,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF00FFFF"
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 151,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF00FFFF"
+          }
+        }
+      }
+    }
+  ],
+  "BodyType": "Male Lean (Neutral Pose)",
+  "BodyTypeVariation": ""
+}

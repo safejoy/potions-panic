@@ -1,0 +1,254 @@
+{
+  "Layers": [
+    {
+      "Name": "Base",
+      "Category": "Body",
+      "Part": "Lean Male",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#1",
+      "Category": "Head",
+      "Part": "Head04",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#2",
+      "Category": "Rear Hair",
+      "Part": "Hair 06",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FFA86D11"
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FFB2720E"
+          }
+        },
+        "Sv": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FFB7750D"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#3",
+      "Category": "Front Hair",
+      "Part": "Front03",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FFBD7B16"
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FFC47C0C"
+          }
+        },
+        "Sv": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FFCC800B"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#4",
+      "Category": "Eyes",
+      "Part": "Eye04",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": null
+          },
+          "ff00ff00": {
+            "Hue": 210,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": null
+          }
+        },
+        "Walk": {
+          "ff00ff00": {
+            "Hue": 204,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": null
+          }
+        },
+        "Sv": {
+          "ff00ff00": {
+            "Hue": 206,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": null
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#5",
+      "Category": "Nose",
+      "Part": "Nose02",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#6",
+      "Category": "Mouth",
+      "Part": "Mouth02",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#7",
+      "Category": "Facial Marks",
+      "Part": "Face4",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#8",
+      "Category": "Facial Marks",
+      "Part": "Face8",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#9",
+      "Category": "Socks",
+      "Part": "Socks02",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#10",
+      "Category": "Shoes",
+      "Part": "Shoes05",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#11",
+      "Category": "Clothing Bottom",
+      "Part": "Bottom05",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FFF7C600"
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FFFFCD08"
+          }
+        },
+        "Sv": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FFFFCD05"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#12",
+      "Category": "Clothing Top",
+      "Part": "Top02",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF757272"
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF707070"
+          }
+        },
+        "Sv": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF686868"
+          }
+        }
+      }
+    }
+  ],
+  "BodyType": "Male Lean (Neutral Pose)",
+  "BodyTypeVariation": ""
+}

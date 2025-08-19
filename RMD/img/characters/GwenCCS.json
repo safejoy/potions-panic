@@ -1,0 +1,175 @@
+{
+  "Layers": [
+    {
+      "Name": "Base",
+      "Category": "Body",
+      "Part": "Slim Female",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#1",
+      "Category": "Head",
+      "Part": "Head03",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#2",
+      "Category": "Eyes",
+      "Part": "Eye01",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {
+        "ffff0000": {
+          "Hue": 0,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FFF0F8FF"
+        },
+        "ff0000ff": {
+          "Hue": 0,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FFF0F8FF"
+        },
+        "ff00ff00": {
+          "Hue": 0,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FF228B22"
+        }
+      }
+    },
+    {
+      "Name": "Layer#3",
+      "Category": "Eyebrows",
+      "Part": "Brow01",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#4",
+      "Category": "Nose",
+      "Part": "Nose03",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#5",
+      "Category": "Mouth",
+      "Part": "Mouth09",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#6",
+      "Category": "Rear Hair",
+      "Part": "Hair05",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {
+        "ff0000ff": {
+          "Hue": 0,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FF800000"
+        }
+      }
+    },
+    {
+      "Name": "Layer#7",
+      "Category": "Front Hair",
+      "Part": "Front01",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {
+        "ff0000ff": {
+          "Hue": 0,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FF8B4513"
+        }
+      }
+    },
+    {
+      "Name": "Layer#8",
+      "Category": "Socks",
+      "Part": "Socks02",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#10",
+      "Category": "Clothing Top",
+      "Part": "Top02",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {
+        "ff0000ff": {
+          "Hue": 0,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FFF0F8FF"
+        },
+        "ffff0000": {
+          "Hue": 0,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FF0000FF"
+        }
+      }
+    },
+    {
+      "Name": "Layer#9",
+      "Category": "Clothing Bottom",
+      "Part": "Bottom07",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {
+        "ffff0000": {
+          "Hue": 0,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FF008B8B"
+        },
+        "ff0000ff": {
+          "Hue": 0,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FF2F4F4F"
+        }
+      }
+    },
+    {
+      "Name": "Layer#11",
+      "Category": "Shoes",
+      "Part": "Shoes01",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#12",
+      "Category": "Accessory 1",
+      "Part": "Acc09",
+      "Offsets": {},
+      "Visible": true,
+      "LayerSettings": {
+        "ff0000ff": {
+          "Hue": 0,
+          "Saturation": 0,
+          "Lightness": 0,
+          "Color": "#FFA9A9A9"
+        }
+      }
+    }
+  ],
+  "BodyType": "Female Slim"
+}

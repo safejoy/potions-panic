@@ -1,0 +1,167 @@
+{
+  "Layers": [
+    {
+      "Name": "Base",
+      "Category": "Body",
+      "Part": "Slim Female",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": null
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 190,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF00FFFF"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#1",
+      "Category": "Head",
+      "Part": "Head03",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": null
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": ""
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#2",
+      "Category": "Eyes",
+      "Part": "Eye04",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#3",
+      "Category": "Eyebrows",
+      "Part": "Brow01",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#4",
+      "Category": "Mouth",
+      "Part": "Mouth02",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {}
+    },
+    {
+      "Name": "Layer#5",
+      "Category": "Ahoge",
+      "Part": "Ahoge1",
+      "Offsets": {
+        "Face": "0, -1",
+        "Sv": "0, -1",
+        "Walk": "0, -1"
+      },
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF8A2BE2"
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 261,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF8A2BE2"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#6",
+      "Category": "Rear Hair",
+      "Part": "Hair05",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF8A2BE2"
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 256,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF8A2BE2"
+          }
+        }
+      }
+    },
+    {
+      "Name": "Layer#7",
+      "Category": "Front Hair",
+      "Part": "Front06",
+      "Offsets": {},
+      "Visible": true,
+      "UseSkinToneColoring": true,
+      "LayerSettings": {
+        "Face": {
+          "ff0000ff": {
+            "Hue": 0,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF8A2BE2"
+          }
+        },
+        "Walk": {
+          "ff0000ff": {
+            "Hue": 258,
+            "Saturation": 0,
+            "Lightness": 0,
+            "Color": "#FF8A2BE2"
+          }
+        }
+      }
+    }
+  ],
+  "BodyType": "Female Slim (Neutral Pose)",
+  "BodyTypeVariation": ""
+}
